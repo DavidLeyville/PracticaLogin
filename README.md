@@ -6,12 +6,8 @@
 ![Author](https://img.shields.io/badge/author-%40nauvalazhar-blue.svg)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/nauvalazhar/my-login/.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fnauvalazhar%2Fmy-login%2F)
 
-My Login is a Bootstrap 4 Login Page Snippet, you can use it as you wish and it's free for personal or commercial use.
-
+Utilizaremos un Loggin, para esta practica donde harermos diferentes cambios a la plantilla y veremos como estos se ven reflejados dentro de un entorno como GitHub para tener un entendimiento practico de esta herramienta
 ![Preview](https://image.ibb.co/mqGRKK/image.png)
-
-# Installation
-Let's make it easy! Just download this template, use it on your project.
 
 # Demo
 - [Login](https://nauvalazhar.github.io/bootstrap-4-login-page/index.html)
@@ -32,14 +28,9 @@ Let's make it easy! Just download this template, use it on your project.
 - Fully responsive
 - and more ...
 
-# Report Some Bugs
-Find a Bug? Please, [create an issue](https://github.com/nauvalazhar/my-login/issues) and we'll fix it together for a better template.
 
 # Contribution
 Contribution are always welcome and recommended! Here is how:
-
-- Fork the repository ([here is the guide](https://help.github.com/articles/fork-a-repo/)).
-- Clone to your machine git clone https://github.com/YOUR_USERNAME/my-login.git
 - Make your changes
 - Create a pull request
 
@@ -55,14 +46,3 @@ Contribution are always welcome and recommended! Here is how:
 ### Aug 29, 2017
   - **Initial release**
 
-# Looking For a Free Admin Template?
-Stisla is waiting for you. [Download now](https://stisla.multinity.com).
-
-[![Stisla Preview](https://getstisla.com/landing/stisla-share.png)](https://getstisla.com)
-
-
-# Buy me a Coffee
-Support me :) http://buymeacoff.ee/mhdnauvalazhar
-
-# License
-[MIT License](http://opensource.org/licenses/MIT)
